@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    background-color: #101010;
+
+    max-width: 1220px;
+    height: 4.06rem;
+    width: 95rem;
+    
+    border-radius: 50px;
+}
+
+.header__logo {
+  display: flex;
+  margin-left: 20px;
+}
